@@ -1,0 +1,147 @@
+<HTML>
+<HEAD><TITLE>phl.pm.org: Philadelphia Perl Mongers</TITLE></HEAD>
+<BODY BGCOLOR="#FFFFFF">
+
+<CENTER>
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4>
+<TR>
+<TD ROWSPAN=3 BGCOLOR="#3333AA">&nbsp;&nbsp;</TD>
+<TD BGCOLOR="#3333AA" 
+        VALIGN="MIDDLE"
+        ALIGN="CENTER"><FONT FACE="Times New Roman, Times" COLOR="White" SIZE="+4">Philadelphia</FONT>
+</TD>
+<TD ROWSPAN=3 BGCOLOR="#3333AA">&nbsp;&nbsp;</TD>
+</TR>
+<TR><TD ALIGN="CENTER">&nbsp;
+    <A HREF="http://www.pm.org"><IMG BORDER=0
+       SRC="images/pm.gif"></A>
+       &nbsp;
+</TD></TR>
+<TR><TD BGCOLOR="#3333AA" 
+        VALIGN="MIDDLE"
+        ALIGN="CENTER"><FONT FACE="Times New Roman, Times" COLOR="White" SIZE="+4">phl.pm</FONT>
+</TD></TR>
+</TABLE>
+
+<BR>
+<TABLE WIDTH="80%">
+<TR><TD COLSPAN=3 BGCOLOR="#3333AA"><FONT COLOR="White" SIZE="+3"><B>Upcoming Events</B></FONT></TD></TR>
+<TR><TD COLSPAN=3>
+        <!--#include file="comingsoon.html"-->
+	<small><A HREF="cominglater.html">[future events]</a></small><br>
+	<small>
+	Events are announced on our mailing list and posted here.  If you'd like to attend one of our meetings, it will be greatly appreciated if you join the mailing list and let us know you'll be there, so that we can prepare appropriately for the expected turnout.
+	</small>
+    </TD>
+</TR>
+
+<TR><TD WIDTH="48%" BGCOLOR="#3333AA"><FONT COLOR="White" SIZE="+3"><B>Meetings</B></FONT></TD> 
+    <TD>&nbsp;</TD> 
+    <TD WIDTH="48%"  BGCOLOR="#3333AA"><FONT COLOR="White" SIZE="+3"><B>Technical Talks</B></FONT></TD>
+</TR>
+
+<TR><TD VALIGN="TOP" WIDTH="48%">
+  We generally meet bi-weekly.  In a four week month, we'd meet once for a technical presentation
+  and discussion, and once for drinking, eating, and social discussion.  
+<!--  Every other week, we meet for "Reading Group", where over dinner, we discuss a perl book. -->
+  Our technical meetings are usually held in the second floor conference room at <A HREF="http://www.isinet.com/">ISI</A>,
+  <A HREF="http://maps.yahoo.com/py/maps.py?Pyt=Tmap&addr=3501+Market+Street&csz=19104&Get%A0Map=Get+Map">3501 Market Street</A> in Philadelphia; the location for ``social'' meetings
+  changes monthly.  The Reading Groups have been held at Marathon Grill, 16th and Sansom</P>
+  <FONT SIZE="-1">
+  Our typical meeting schedule is:<UL>
+    <LI>First Monday, 7:00 PM--whenever:  eating, drinking, and discussion.</LI>
+<!--    <LI>Second Monday, 7:00 PM--whenever: Reading Group -->
+    <LI>Third Monday, 7:00 PM--whenever:  Technical Talk</LI>
+<!--    <LI>Fourth Monday, 7:00 PM--whenever: Reading Group -->
+  </UL>
+  
+</TD>
+
+<TD></TD>
+
+<TD VALIGN="TOP" WIDTH="48%">
+   Once a month, we meet and someone gives a presentation about
+   technical issues about Perl, or the world surrounding Perl.  Past
+   talks include XML, Perl/Tk, Perl in the real world, Regular
+   Expressions, and more.
+   </P>
+
+   Generally our speakers come from within phl.pm, but from time to
+   time we bring in a guru from elsewhere in the Perl community.
+   </P>
+
+   An <A HREF="techtalks.html">archive</a> of past talks is available.
+   </P>
+</TD>
+
+<TR><TD WIDTH="48%" BGCOLOR="#3333AA"><FONT COLOR="White" SIZE="+3"><B>Mailing Lists</B></FONT></TD> 
+    <TD>&nbsp;</TD> 
+    <TD WIDTH="48%"  BGCOLOR="#3333AA"><FONT COLOR="White" SIZE="+3"><B>Other Stuff</B></FONT></TD>
+</TR>
+
+<TR><TD VALIGN="TOp" WIDTH="48%">
+  We have a rather low-volume mailing list, used mostly for negotiation
+  of meeting locations and occasional technical chatter.  To subscribe,
+  send email to
+  <A HREF="mailto:majordomo@lists.pm.org">majordomo@lists.pm.org</A>
+  with a message body of ``subscribe phl''.<BR>
+  <TT>`echo 'subscribe phl' | mail majordomo@lists.pm.org`</TT>
+</TD>
+
+<TD></TD>
+
+<TD WIDTH="48%">
+<UL>
+  <LI>After our Technical Talks, we make our way to Quizzo and usually
+      do pretty well..  <A HREF="quizzo.html">Here's our track
+      record...</A>
+  <LI>You can download the phl.pm GPG keyring <a href='keys/phl_pm.gpg'>here</a>.
+  <LI>Need a job?  Visit <A HREF="http://jobs.perl.org">jobs.perl.org</A>.
+  </UL>
+</TD>
+</TR>
+<!----
+<TR>
+ <TD COLSPAN=3 BGCOLOR="#3333AA">
+ <FONT COLOR="White" SIZE="+3"><B>Breaking News</B></FONT></TD></TR>
+<TR><TD COLSPAN=3>
+  <SMALL>Announcements from the list that haven't made it to the calendar yet.</SMALL><BR>
+  <TABLE WIDTH="100%" BORDER=0>
+  <TR><TH>Posted by:</TH><TH>Message:</TH></TR>
+  <!--#include file="events"-->
+  </TABLE>
+</TD>
+</TR>
+-->
+
+</TABLE>
+</CENTER>
+<HR SIZE=0>
+<SMALL>
+<TABLE WIDTH=90%>
+<TR><TD>
+ &copy; 2002 phl.pm<BR>
+  If you have a question or a comment about this page,<BR> please direct it to
+  <A HREF="mailto:waltman@pobox.com">Walt Mankowski</A>.
+</TD><TD ALIGN="RIGHT" VALIGN="TOP">
+<a href="http://use.perl.org/"
+><img BORDER=0 src="images/useperl.gif" alt="use Perl;"
+></a>
+<!-- START PERL NEWS -->
+<!-- Perl News,  news@perl.org -->
+<a href="http://www.news.perl.org/"
+><img BORDER=0 src="http://www.perl.org/Images/my_portal.gif" alt="Perl News"
+></a>
+<!-- END PERL NEWS -->  
+<!-- START DOWNLOAD PERL -->
+<!-- Perl Mongers, Inc.  web@perlmongers.org -->
+<a href="http://www.cpan.org/ports/index.html"
+><img BORDER=0 src="http://www.perl.org/Images/download_perl.gif"
+width="102" height="42" alt="Download Perl Now!"></a>
+<a href="http://www.oreilly.com/safari/ug"><img border=0 src="http://ug.oreilly.com/banners/safari/468-safari_ug.gif" alt="Go on Safari with Tim O'Reilly"></a>
+<!-- END DOWNLOAD PERL --> 
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
