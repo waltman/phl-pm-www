@@ -1,0 +1,373 @@
+# file format:
+# date, yyyymmdd <whitespace> text
+#  text is continued on the next line if the next line starts
+#  with whitespace.
+#
+# 
+19990802    Phl Monger Dinner:  <A HREF="http://restaurants.yahoo.com/restaurants/Pennsylvania/Cities/Philadelphia/Asian/2025296.html">Tandoor India</A>, (106 south 40th) 40th and Chestnut, 7pm.
+19990809    Perl Reading Group: 
+	The Perl Cookbook, Chapter 11, References and Records
+	Marathon Grill, 16th and Sansom, 7pm
+19990816    Technical Presentation: Administring Sybase With Perl
+    presented by Abigail
+    ISI, 34th and Market, 7pm
+-19990821    The Perl Conference #3, Monterey, California
+-19990822    The Perl Conference #3, Monterey, California
+-19990823    The Perl Conference #3, Monterey, California
+-19990824    The Perl Conference #3, Monterey, California
+19990823    Perl Reading Group: 
+    The Perl Cookbook, Chapter 12, Packages, Libraries and Modules
+    Marathon Grill, 16th and Sansom, 7pm
+19990828	Abigail's <A HREF="emails/abigail_bday1.html">Celebration</A> of 1136073600 seconds of existence.
+	his house.  "Evening".  <A HREF="emails/abigail_bday2.html">Directions to his house</A>
+19990906	Labor Day.  (End of summer.)  (No perl)
+19990922	Technical Talk: Mark Dominus's <A HREF="misc/dominus.turoff.990831.html">Strong Typing</A>
+19991004	Dinner: <A HREF="http://yp.yahoo.com/py/ypMap.py?Pyt=Typ&YY=17598&city=Philadelphia&state=PA&country=US&zip=19019&stx=penang&stp=a&ad=2500&ycat=&l=9&tuid=11160185&tq=8&btype=default">Penang</A>, Malaysian Cuisine, 117 N 10th Street, 7pm
+19991017	Perl 5's 5th Birthday
+19991018	Technical Talk: Abigail's Introduction to Recursive Descent Parsing.  (7:30pm -- with stl.pm and boston.pm)
+19991115	Technical Talk: Perl, CGI and the Human Genome (Lincoln Stein not included)
+		by R. Geoffrey Avery (7pm, ISI) <SMALL><A HREF="misc/geoff.genome.991108.html">abstract</A></SMALL>
+
+19991122 	<B>Reading Group:</B> Object Oriented Perl by Damian Conway,
+	Marathon Grill, 16th and Sansom, 7pm.  
+	Ziggy Says: <I>Please come with any questions, observations, or other thoughts you may have on Damian's book and OOP in Perl.  We've _all_ been busy or otherwise detained in recent weeks.  Don't feel bad if you've missed a few meetings over the last few weeks, just show up and join in!</I>
+
+19991126	Perl Mongers in London!
+19991127	Perl Mongers in London!
+19991128	Perl Mongers in London!
+19991129	Perl Mongers in London!
+
+19991206	XML'99 is in town this week, so it's time for chopsticks and some 
+ random asian cuisine.  This month's dinner meeting will be 7pm Monday
+ at: Vietnam Restaurant, Chinatown, 221 N 11th St, Philadelphia, PA 19107.
+ Special guests, Clark Cooper and Dale Dougherty will be joining us.  
+ See Adam's <A HREF="emails/ziggy_xml_dinner.html">announcement email</A>.
+
+19991231	The NON-Milennial bash
+20000101	NOT the first day of the next millenium.
+20000124	Next phl.pm meeting..  Techncal.. Yes.. Tech Talk.. More info to be announced if we make it past Y2K. 
+#20010101	2001
+20000110	Dinner at Nodding Head Brewpub, 1516 Sansom, 7pm.
+	Probably still has Sam Adams sign outside.
+20000124	Tech Talk: 4 x 15 minute quicky presentations.
+	Presenters: Geoff, Mark, Walt, Robert
+20000131	Reading Group: Extreme Programming Explained
+20000207	Dinner Meeting at...  
+20000221	Tech Meeting Postponed:  Geoff's "Time to test the DVDs" party
+20000228	Hao talking about why he hates PHP... er..
+	Perl vs. PHP
+20000306	Dinner Meeting at <B>Dmitri's</B>.  Northeast corner of 12th and Locust.  <FONT COLOR="RED">Change of Location!!</FONT>
+#20000306	Dinner Meeting at <A HREF='http://restaurants.yahoo.com/restaurants/Pennsylvania/Cities/Philadelphia/Brazilian/2027857.html'>Brazil</A>.. (maybe free stuff from techies.com)	
+20000320 	Tech Talk: Abigail talking about 'japhs'.
+	ISI, 3501 Market St.  7pm
+# these are spaceholders for lazy coding
+20000327	Reading Group?
+20000403	Dinner Meeting:  7pm 
+	our $defaults{restaurant}=
+	<B>The Nodding Head</B>
+	1516 Sansom St
+20000417 	Tech Talk: ... TBA ...
+20000508	Dinner Meeting: Tandoor India
+#20000515	Tech Talk: Adam on the DocBook XML DTD
+20000525	Reading Group: First 2 draft chapters of PATH (by mjd)
+	http://www.plover.com/~mjd/perl
+	Nodding Head, 7pm
+20000529	Perl Whirl Alaskan Cruise: Leaves Vancouver
+20000605	Perl Whirl Alaskan Cruise: Returns to Vancouver
+20000612	Dinner Meeting:  Bowling at Jillians @ Franklin Mills
+	courtesy of Geoff's good luck.  
+20000621	YAPC 19100 (http://www.yapc.org/America)
+20000622	YAPC 19100
+20000623	YAPC 19100
+20000626	Tech Talk: What I learned at YAPC 19100
+#20000703	First Monday Meeting Postponed
+20000703	Get an extra day off from work day.
+20000704	July 4th
+20000710	Dinner Meeting: ... TBA ...
+20000717	The Perl Conference 4.0, Monterey, California
+20000718	The Perl Conference 4.0, Monterey, California
+20000719	The Perl Conference 4.0, Monterey, California
+20000720	The Perl Conference 4.0, Monterey, California
+20000724	Tech Talk: Walt on Mail::Audit
+20000807	Dinner Meeting: Location To Be Decided
+#20000807        Dinner Meeting: Prego
+#	10 S. 2nd St
+#	Italian Food
+#	<A HREF="http://www.dalc.com/asp/mapquest/mqcustomconnect.exe?link=map&POI1name=Prego+++++++++++++++++++++++++++++++++++&POI1streetaddress=10+S%2E+2nd+St%2E+++++++++++++++++++++++++++&POI1city=Philadelphia++++++++&POI1state=PA+&POI1zip=19106+++++&POI1phone=&POI1county=USA&POI1iconid=31'">map</A> 
+20000807 	Dinner Meeting:
+ Attempting to stay with the theme of Italian, the new answer is...
+ 7pm
+ Pietros (or is it D'Pietros)
+ 17xx Walnut - across from the Borders Bookstore
+
+20000821        Tech Talk: Adam Turoff from ActiveState talking about Perl6
+20000905	Dinner Meeting: Brasils  
+	Brasil's
+        112 Chestnut St
+	<A HREF="http://www.dalc.com/asp/mapquest/mqcustomconnect.exe?link=map&POI1name=Brasil%27s&POI1streetaddress=112+Chestnut+St&POI1city=Philadelphia&POI1state=PA&POI1zip=19106&POI1phone=%28215%29+413%2D1700&var1=www.dalc.com&POI1iconid=31">map</A> -- <B>Tuesday!</B>
+20001002 Dinner Meeting at
+ Bao Bao
+ 1004 Race St.
+20001023  Tech Talk: Kyle Burton will present: 
+  <I>How <A HREF="http://www.vwrsp.com">vwrsp.com</A> runs fast using dynamic page generation with OO perl</I>
+  (based on <A HREF="http://jupiter.quarterleaf.com/~kburton/classes/perl/web_devel_pas2/">this</A> talk)
+  ISI, 2nd floor conference room, 7pm
+
+20001127 Tech Talk: Larry Wall's <A HREF="http://www.linuxshowcase.org/">Atlanta Linux Showcase</A> Keynote.
+   <A HREF="misc/20001127.html">Camel Lot #6, The Once and Future Perl</A>
+   ISI, 2nd floor conference room, 7pm
+
+20001211 Dinner Meeting, 7pm, <A HREF="http://www.sangkee.com/">Sang Kee Peking Duck House</A>
+	<A HREF="http://yp.yahoo.com/py/ypMap.py?Pyt=Typ&tab=B2C&tuid=12892614&city=Philadelphia&state=PA&zip=19103&country=us&slt=39.953098&sln=-75.173897&cs=5">238 N 9th Street, Philadelphia, PA 19107</A>
+	<SMALL>It's a short walk north of the Market Street Station (so people in the suburbs can take the train).  The restaurant is just south of Vine.</SMALL>
+	The restaurant is well liked, as a quick <A HREF="http://www.google.com">google</A> <A HREF="http://www.google.com/search?q=sang+kee+philadelphia&hl=en&lr=&safe=off">search</A> <A HREF="http://www.pond.com/~jefft/sangkee.html"> proves</A>.
+
+20001230 Possible Daytime Excursion to <A HREF="http://www.plover.com/~mjd/misc/ISB">International Smokeless Barbeque?</A>
+
+20010108 Tech Talk: <A HREF="mailto:soleary@erols.com">Sean O'Leary</A> - Perl on Win32
+	Location TBA
+
+20010122 Dinner Meeting: Location TBA
+
+20010212 Tech Talk: <A HREF="mailto:vex@unixpunk.dhs.org">Hunter</A> on Gtk+ and Gnome in Perl.  7pm, @ ISI
+
+20010226 Event?
+20010312 Event?
+20010326 Tech Talk: ADAM TUROFF on Perl/SOAP (Simple Object Access Protocol)
+  Heilmeier Hall, Towne Building, University of Pennsylvania,  7pm
+
+20010409 Dinner Meeting, 7pm, Vietnam or Vietnam Palace, details TBA on the list
+20010423 Tech Talk, details TBA
+
+# May 2001
+
+20010507 Dinner Meeting, details TBA
+20010521 Tech Talk: <A HREF="http://www.yapc.org/America">YAPC</A> Practice Talks
+  Some of us will be practicing the talks we'll be giving in a few weeks at YAPC:
+  &nbsp;
+  Walt Mankowski: How to submit a Perl documentation patch
+  Geoff Avery: Making a Module:  And All the Crap That CPAN Wants Too
+  Mark-Jason Dominus: Topic of his choice
+
+20010528 Memorial Day
+
+20010531 Deadline to submit a proposal for a <A HREF="http://www.yapc.org/America/talks.shtml#lightning">YAPC Lightning Talk</A>
+
+# June 2001
+
+20010604 Tech Talk: Kirrily "Skud" Roberts on <A HREF="http://www.e-smith.com">e-smith</A>
+
+
+20010613 <A HREF="http://www.yapc.org">YAPC::America::North 19101 in Montreal </A>
+20010614 <A HREF="http://www.yapc.org">YAPC::America::North 19101 in Montreal </A>
+20010615 <A HREF="http://www.yapc.org">YAPC::America::North 19101 in Montreal </A>
+
+20010618 Dinner Meeting?  Maybe delay a week?
+
+# July 2001
+
+20010716 Tech Talk: Mark-Jason Dominus will explain how qrpff works.  7pm @ ISI
+  qrpff is a deCSS program written in 7 lines of obfuscated Perl.
+
+20010723 <A HREF="http://conference.oreilly.com">The Perl Conference 5.0 in San Diego</A>
+20010724 <A HREF="http://conference.oreilly.com">The Perl Conference 5.0 in San Diego</A>
+20010725 <A HREF="http://conference.oreilly.com">The Perl Conference 5.0 in San Diego</A>
+20010726 <A HREF="http://conference.oreilly.com">The Perl Conference 5.0 in San Diego</A>
+20010727 <A HREF="http://conference.oreilly.com">The Perl Conference 5.0 in San Diego</A>
+
+20010802 Dinner Meeting, 7 PM at Islas, 301 S. 11th St. (between Spruce and Pine)
+  The Philadelphia Inquirer <a href='http://inq.philly.com/content/inquirer/2001/05/23/food/TABLE23.htm'>says</a>:<br>
+  <i>Islas, 301 S. 11th St., is a tiny island-themed BYOB that shares the kitchen with the Latin-themed Where Else Cafe next door. (The space was a dry cleaner.)  Partners are Edgardo Fernandez (who worked for Marriott) and Jake Lopez (formerly at Thomas Jefferson University). Cuisine is reasonably priced international, picking up dishes from all sorts of tropical islands, lots of vegetarian items, plus fish and seafood.</i><p>
+
+
+20010807 Dinner with Simon Cozens, 6 PM at <a href=http://www.phillytown.com/ludwigs.htm>Ludwig's Garten</a>, 1315 Sansom St.
+
+20010908 Special Moment: 21:46:40 EDT
+#20010909 Special Moment: 1:46:40 GMT
+
+20010910 Tech Talks @ ISI
+  &nbsp;
+  Walt Mankowski: A case study in when not to memoize.
+  Mark-Jason Dominus: A ten-minute quantitative analysis of memoization
+  Dave Turner: Art of Illusion
+
+20010924 Phl.pm quests for the Holy Grail
+  &nbsp;
+  7:00 pm -- Dinner at <a href=http://www.digitalcity.com/philadelphia/dining/venue.adp?vid=6505>Kabul</a>, 106 Chesnut St.
+
+  9:40 pm -- Monty Python and the Holy Grail at the <a href=http://www.ritzfilmbill.com/About_the_Ritz.html>Ritz Five</a>, on Walnut St. between 2nd and 3rd.
+
+20011112 Dieter Pearcey will talk about <a href='http://poe.perl.org'>POE</a>.  The talk will be followed by dinner.  The location will probably be ISI, at 3501 Market Street.  <br><b>Note:  Because of the plane crash in New York, this talk has been postponed until November 19th.</b>
+
+20011119 Dieter Pearcey will talk about <a href='http://poe.perl.org'>POE</a>.  The talk will be followed by dinner.  The location will be at 7pm at ISI, 3501 Market Street.  We'll be doing a GPG keysigning at the meeting.  If you'd like to participate, email your public key to <a href=mailto:waltman@pobox.com>waltman@pobox.com</a>, then bring a picture ID and a copy of your GPG fingerprint to the meeting.
+
+20011203 Dinner meeting at La Boheme restaurant at 246 S. 11th St., 7 PM.  Afterwards we may go to Meng's and watch Road Warrior.  <br><font color="red"><b>UPDATE!</b></font>  It turns out that La Boheme closes early on Mondays, so instead we're going to <a href="http://philadelphia.citysearch.com/profile/8959635/">Effie's</a>, 1127 Pine St.  We're still meeting at 7 PM.
+
+20011205 In a non-Perl event, Mark-Jason Dominus will be speaking at the Philadelphia Linux Users' Group (PLUG).  His topic is "ext2 (Linux) filesystem internals".  The meeting will be held at <a href="http://www.usp.edu">USP</a>.  See <a href="http://www.PhillyLinux.org/meetings.html">the PLUG website</a> for directions and more information.
+
+20011217 Dave Turner will give a talk on <a href='http://www.triz.org'>TRIZ</a> at ISI.  The talk will be followed by dinner.
+
+#20011210 Dinner meeting (location to be determined)
+
+20011231 No meeting.
+
+20020107 Happy Hour at Potcheen (Locust between 17th and 18th) from 5:30 to 7.  We'll decide there whether to have dinner at Potcheen or go somewhere else in the neighborhood.  If we go elsewhere, we'll leave word there where we went.
+
+#20020107 Peter Bachman will talk about IP filters.
+
+20020112 <A HREF="http://www.geekcruises.com/home/pw_home.html">Perl Whirl '02</A> leaves port.
+
+20020204 Dinner meeting at <a href="http://www.ralphsrestaurant.com">Ralph's Italian Restaurant</a>, 760 S. Ninth St., 7 PM.
+
+20020225 Dinner meeting at <A HREF="http://philadelphia.citysearch.com/profile/8991071">International Smokeless Barbeque</A>, 612 Washington Ave., 7 PM.  Read <A HREF="http://www.plover.com/~mjd/misc/ISB">MJD's review</A> from his first visit there.
+
+20020318 Abigail will be visiting us from The Netherlands, and will talk about regular expressions.  This meeting will probably be at ISI at 7 PM.
+
+20020401 Dan Sugalski will talk about Parrot at ISI, 7 PM.
+
+20020415 Mark-Jason Dominus will talk about his exciting new module, Tie::File.pm.  The talk will be at ISI at 7 PM.
+
+20020420 Garibaldi's birthday party.
+
+20020506 Geoffrey Young will talk about mod_perl at ISI, 7 PM.
+
+20020520 Dinner at <a href="http://philadelphia.citysearch.com/profile/8957372">El Azteca II</a>, 714 Chestnut St., 7 PM.
+
+20020528 Mark-Jason Dominus will be practicing his new TPC tutorials somewhere at the University of Pennsylvania Engineering School.  Details to follow.
+20020529 Mark-Jason Dominus will be practicing his new TPC tutorials somewhere at the University of Pennsylvania Engineering School.  Details to follow.
+
+20020617 Tech Talk: <A HREF="http://www.yapc.org/America">YAPC</A> Practice Talks, 7 PM at ISI
+  Some of us will be practicing the talks we'll be giving next week at YAPC:
+  &nbsp;
+  Walt Mankowski: When Not to Memoize / Code Optimization
+  Geoff Avery: ExtUtils::ModuleMaker
+  Mark-Jason Dominus: Mailing List Judo
+
+20020626 <A HREF=http://www.yapc.org/America/>YAPC::NA 2002 at Washington University in St. Louis</A>
+20020627 <A HREF=http://www.yapc.org/America/>YAPC::NA 2002 at Washington University in St. Louis</A>
+20020628 <A HREF=http://www.yapc.org/America/>YAPC::NA 2002 at Washington University in St. Louis</A>
+
+20020722 <A HREF=http://conferences.oreillynet.com/os2002/>The Perl Conference 6.0 in San Diego</A>
+20020723 <A HREF=http://conferences.oreillynet.com/os2002/>The Perl Conference 6.0 in San Diego</A>
+20020724 <A HREF=http://conferences.oreillynet.com/os2002/>The Perl Conference 6.0 in San Diego</A>
+20020725 <A HREF=http://conferences.oreillynet.com/os2002/>The Perl Conference 6.0 in San Diego</A>
+20020726 <A HREF=http://conferences.oreillynet.com/os2002/>The Perl Conference 6.0 in San Diego</A>
+
+20020805 Mark-Jason Dominus will be giving his Conference Presentation Judo talk.  We'll also be screening some short films that were done for YAPC and TPC this year.  The meeting will be at ISI at 7 PM. 
+
+20020819 Dinner meeting at <a href='http://philadelphia.citysearch.com/profile/11313470/'>The Manayunk Brewpub</a>, 4120 Main St. in (where else?) Manayunk, 7 PM.
+
+20020909 John Karr will talk about Expect and using Expect with Perl.  The talk will be at ISI at 7 PM.
+
+20020928 Social meeting at <a href='http://www.victorybeer.com/'>The Victory Brewpub</a>.  We'll be meeting at 5 PM.
+
+20021007 <b>Last minute change!</b> Walt Mankowski will be speaking about Attribute::Types.  The talk will be at ISI at 7 PM.  Meng's talk will be rescheduled to a later date.
+
+20021021 Social meeting, location still to be decided.
+
+20021103 <a href='http://www.usenix.org/events/lisa02/'>LISA '02</a>, at the Philadelphia Marriot Hotel.
+20021104 <a href='http://www.usenix.org/events/lisa02/'>LISA '02</a>, at the Philadelphia Marriot Hotel.
+20021105 <a href='http://www.usenix.org/events/lisa02/'>LISA '02</a>, at the Philadelphia Marriot Hotel.
+20021106 <a href='http://www.usenix.org/events/lisa02/'>LISA '02</a>, at the Philadelphia Marriot Hotel.
+20021107 <a href='http://www.usenix.org/events/lisa02/'>LISA '02</a>, at the Philadelphia Marriot Hotel.
+20021108 <a href='http://www.usenix.org/events/lisa02/'>LISA '02</a>, at the Philadelphia Marriot Hotel.
+
+20021204 Mark-Jason Dominus will be giving a talk at <a href='http://www.phillylinux.org/'>The Philadelphia area Linux User Group</a> on the implementation and internals of well-known Unix commands like 'cat', 'ls', 'mount', and 'pwd'.  The meeting will begin at 7 PM at the University of the Sciences in Philadelphia, in Rosenberger Hall, Room 102.  See the website for more information and directions.
+
+20021209 Jim Trocki will talk about <a href='http://www.kernel.org/software/mon/'>mon</a>.  The meeting will be at ISI at 7 PM.
+
+20021223 Dinner meeting, location still to be decided.
+
+20030113 Tech meeting at ISI.  Several people will be giving short talks about some of <a href='http://yetanother.org/damian/'>Damiam Conway's</a> modules:
+  Eric Roode: <a href='http://search.cpan.org/author/DCONWAY/Lingua-EN-Inflect-1.88/lib/Lingua/EN/Inflect.pm'>Lingua::EN::Inflect</a>
+  Geoff Avery: <a href='http://search.cpan.org/author/DCONWAY/Getopt-Declare-1.09/lib/Getopt/Declare.pm'>Getopt::Declare</a>
+
+20030121 Dinner and Quizo at <a href='http://www.fergies.com/'>Fergie's</a>, 1214 Sansom St.
+
+20030210 Dinner meeting at the Nice Noodle House, 1038 Race St. (SE corner of Race and 11th Sts.), 7 PM.
+20030224 Tech meeting at ISI.  Several people will be giving short talks:
+  Mark-Jason Dominus: <a href='http://search.cpan.org/author/DCONWAY/Hook-LexWrap-0.20/lib/Hook/LexWrap.pm'>Hook::LexWrap.pm</a>
+  Rachel King: <a href='http://search.cpan.org/author/DCONWAY/NEXT-0.50/lib/NEXT.pm'>NEXT.pm</a>
+  Eric Roode: <a href='http://search.cpan.org/author/ROODE/Readonly-1.00/Readonly.pm'>Readonly.pm</a>
+
+20030310 Dinner meeting at the Nice Noodle House, 1038 Race St. (SE corner of Race and 11th Sts.), 7 PM.
+
+20030324 Tech meeting at ISI, 7 PM:
+  Paul Pantanella: <a href='http://search.cpan.org/author/DCONWAY/Switch-2.09/Switch.pm'>Switch.pm</a>
+  Paul Snyder: <a href='http://search.cpan.org/author/DCONWAY/Inline-Files-0.60/lib/Inline/Files.pm'>Inline::Files.pm</a>
+
+20030409 Dinner meeting over all-you-can-eat Polish food at <a href='http://www.hollyeats.com/Teresas.htm'>Teresa's</a> <a href='http://citypaper.net/articles/2003-01-30/food2.shtml'>Buffet</a>, 2401 E. Venango St. (in a strip mall on the east side of Aramingo at Venango), 7 PM.
+
+20030414 Mark-Jason Dominus will be practicing his <a href='http://conferences.oreillynet.com/os2003/'>OSCON</a> tutorial <a href='http://conferences.oreillynet.com/cs/os2003/view/e_sess/4088'>Tricks of the Wizards (2003 Edition)</a>.  The talk will be held in Heilmeier Hall (room 100, formerly Alumni Hall) in the Towne Building at the University of Pennsylvania.  The <a href='http://www.facilities.upenn.edu/mapsBldgs/view_map.php3?id=158'>Towne Building</a> is located at 220 South 33rd Street in Philadelphia.  The talk will begin at 6 PM and will last until about 9:30, including a 30-minute break in the middle.  Mark asks for a voluntary donation of $10 to cover his costs in preparing the class.  To reserve a spot in the class, send an email to <a href='mailto:mjd-tpc-practice-tricks+@plover.com'>mjd-tpc-practice-tricks+@plover.com</a>.
+
+20030421 Mark-Jason Dominus will be practicing his <a href='http://conferences.oreillynet.com/os2003/'>OSCON</a> tutorial <a href='http://conferences.oreillynet.com/cs/os2003/view/e_sess/4056'>Making Programs Faster: Benchmarking, Profiling, and Performance Tuning</a>.  The talk will be held in Heilmeier Hall (room 100, formerly Alumni Hall) in the Towne Building at the University of Pennsylvania.  The <a href='http://www.facilities.upenn.edu/mapsBldgs/view_map.php3?id=158'>Towne Building</a> is located at 220 South 33rd Street in Philadelphia.  The talk will begin at 6 PM and will last until about 9:30, including a 30-minute break in the middle.  Mark asks for a voluntary donation of $10 to cover his costs in preparing the class.  To reserve a spot in the class, send an email to <a href='mailto:mjd-tpc-practice-performance+@plover.com'>mjd-tpc-practice-performance+@plover.com</a>.
+
+20030428 NO MEETING!  The talk on IPTables::IPv4::IPQueue.pm has been rescheduled to May 19.
+
+20030505 Dinner meeting at Hibachi Restaurant, Delaware Ave. at Callowhill St. (underneath Dave & Buster's), 7 PM.
+
+20030519 Michael Toren will be giving a talk on <a href='http://search.cpan.org/author/JMORRIS/perlipq-1.25/IPQueue.pm'>IPTables::IPv4::IPQueue.pm</a>, a module which lets you write Linux firewall logic in Perl.  The meeting will be at ISI at 7 PM.
+
+20030515 <a href='http://www.yapc.ca/'>YAPC::Canada in Ottawa</a>
+20030516 <a href='http://www.yapc.ca/'>YAPC::Canada in Ottawa</a>
+
+20030616 <a href='http://yapc.org/America/'>YAPC::NA in Boca Raton, FL</a>
+20030617 <a href='http://yapc.org/America/'>YAPC::NA in Boca Raton, FL</a>
+20030618 <a href='http://yapc.org/America/'>YAPC::NA in Boca Raton, FL</a>
+
+20030707 <A HREF='http://conferences.oreillynet.com/os2003/'>The Perl Conference 7.0 in Portland</A>
+20030708 <A HREF='http://conferences.oreillynet.com/os2003/'>The Perl Conference 7.0 in Portland</A>
+20030709 <A HREF='http://conferences.oreillynet.com/os2003/'>The Perl Conference 7.0 in Portland</A>
+20030710 <A HREF='http://conferences.oreillynet.com/os2003/'>The Perl Conference 7.0 in Portland</A>
+20030711 <A HREF='http://conferences.oreillynet.com/os2003/'>The Perl Conference 7.0 in Portland</A>
+
+20030723 <a href='http://www.yapc.org/Europe/'>YAPC::Europe in Paris</a>
+20030724 <a href='http://www.yapc.org/Europe/'>YAPC::Europe in Paris</a>
+20030725 <a href='http://www.yapc.org/Europe/'>YAPC::Europe in Paris</a>
+
+20030811 Technical meeting at ISI, 7 PM.  Dave Rolsky will be visiting us and will give a talk entitled "Industrial Strength Perl - parameter validation, exceptions/error-handling, & logging".  Prior to Dave's talk, Meng Weng Wong will give a short talk on his <a href='http://spf.pobox.com'>SPF anti-spam project</a>.
+
+20030825 Outing at the <a href='http://www.riversharks.com'>Camden Riversharks</a> game.  Meet outside near the ticket booth between 6:15 and 6:25.
+
+20030929 Geoff Young will be giving a talk on <a href='http://conferences.oreillynet.com/cs/os2003/view/e_sess/3803'>Writing Tests with Apache::Test</a>.  The meeting will be at ISI at 7 PM.
+
+20031020 Social meeting at the <a href='http://www.noddinghead.com'>Nodding Head Brewery and Restaurant</a>, 1516 Sansom St., 7 PM.
+
+20031103 Geoff Young will be giving a talk on <a href='http://www.apachecon.com/html/session-popup.html?id=865'>mod_perl 2.0</a>.  The meeting will be at ISI at 7 PM.
+
+20031124 Dinner meeting at the Nice Noodle House, 1038 Race St. (SE corner of Race and 11th Sts.), 7 PM.
+
+20031208 Jeff Horwitz will be giving a talk about writing Oracle stored procedures in Perl using extproc_perl.  The meeting will be at ISI at 7 PM.
+
+20031222 Dinner meeting at Abbaye, 3rd and Fairmount (about a block north of Spring Garden), at 7 PM.
+
+20040202 Walt Mankowski will be giving an Intro to Ruby talk.  The meeting will be at ISI at 7 PM.
+
+20040209 Deadline for submitting proposals for <a href='http://conferences.oreilly.com/oscon/'>OSCON 2004</a>
+
+20040510 Social meeting at the <a href='http://www.noddinghead.com'>Nodding Head Brewery and Restaurant</a>, 1516 Sansom St., 7 PM.
+
+20040614 Abigail will be in town for a few days before YAPC, and we'll be meeting him for dinner tonight at 7 PM at <a href='http://philadelphia.citysearch.com/profile/11313479?cslink=search_name_noncust&ulink=boc-results_13_searchslot6_520__0_profile_2_1'>Sang Kee Peking Duck House</a>, 238 N 9th St.
+
+20040616 <a href='http://yapc.org/America/'>YAPC::NA in Buffalo, NY</a>
+20040617 <a href='http://yapc.org/America/'>YAPC::NA in Buffalo, NY</a>
+20040618 <a href='http://yapc.org/America/'>YAPC::NA in Buffalo, NY</a>
+
+20040726 <a href='http://conferences.oreilly.com/oscon/'>The Perl Conference 8.0 (aka OSCON 2004) in Portland, OR</a>
+20040727 <a href='http://conferences.oreilly.com/oscon/'>The Perl Conference 8.0 (aka OSCON 2004) in Portland, OR</a>
+20040728 <a href='http://conferences.oreilly.com/oscon/'>The Perl Conference 8.0 (aka OSCON 2004) in Portland, OR</a>
+20040729 <a href='http://conferences.oreilly.com/oscon/'>The Perl Conference 8.0 (aka OSCON 2004) in Portland, OR</a>
+20040730 <a href='http://conferences.oreilly.com/oscon/'>The Perl Conference 8.0 (aka OSCON 2004) in Portland, OR</a>
+
+20040926 Social meeting at the <a href='http://www.noddinghead.com'>Nodding Head Brewery and Restaurant</a>, 1516 Sansom St., 7 PM.
+
+20050622 <a href='http://yapc.org/America/'>YAPC::NA in Toronto, ON</a>
+20050623 <a href='http://yapc.org/America/'>YAPC::NA in Toronto, ON</a>
+20050624 <a href='http://yapc.org/America/'>YAPC::NA in Toronto, ON</a>
+
+20041018 Lightning talks.  The meeting will be at ISI at 7 PM.
+
+#20160101    Janurary 1st, 2016.
+#20160102    Janurary 2st, 2016.
+#20160103    Janurary 3st, 2016.
+
