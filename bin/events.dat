@@ -1,3 +1,5 @@
+# $Id$
+#
 # file format:
 # date, yyyymmdd <whitespace> text
 #  text is continued on the next line if the next line starts
@@ -361,9 +363,12 @@
 
 20040926 Social meeting at the <a href='http://www.noddinghead.com'>Nodding Head Brewery and Restaurant</a>, 1516 Sansom St., 7 PM.
 
-20050622 <a href='http://yapc.org/America/'>YAPC::NA in Toronto, ON</a>
-20050623 <a href='http://yapc.org/America/'>YAPC::NA in Toronto, ON</a>
-20050624 <a href='http://yapc.org/America/'>YAPC::NA in Toronto, ON</a>
+20050606 Social meeting at the <a href='http://www.noddinghead.com'>Nodding Head Brewery and Restaurant</a>, 1516 Sansom St., 7 PM.
+20050620 YAPC Practice talks at Thompson Scientific (formerly ISI), 7 PM.
+
+20050627 <a href='http://yapc.org/America/'>YAPC::NA in Toronto, ON</a>
+20050628 <a href='http://yapc.org/America/'>YAPC::NA in Toronto, ON</a>
+20050629 <a href='http://yapc.org/America/'>YAPC::NA in Toronto, ON</a>
 
 20041018 Lightning talks.  The meeting will be at ISI at 7 PM.
 
