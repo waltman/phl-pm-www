@@ -1,4 +1,6 @@
-#!/usr/bin/perl
+#!/usr/local/bin/perl
+
+# $Id$
 
 # Perl Mongers Calendar
 # Robert Spier <rspier@seas.upenn.edu>
@@ -9,10 +11,10 @@ use Time::Local;
 use strict;
 
 my %events;
-my $homedir = "/home/groupleaders/philly/";
+my $homedir = "/var/www/phl";
 my $eventfile = "$homedir/bin/events.dat";
-my $upcoming_near = "$homedir/www_docs/comingsoon.html";
-my $upcoming_far = "$homedir/www_docs/cominglater.html";
+my $upcoming_near = "$homedir/comingsoon.html";
+my $upcoming_far = "$homedir/cominglater.html";
 
 my @months = qw{Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec};
 my @days   = qw{Sun Mon Tue Wed Thu Fri Sat};
