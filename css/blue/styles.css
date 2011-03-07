@@ -1,0 +1,13 @@
+/* ===================== Blue Style ===================== */
+
+#header h1 {
+	/*background: url("images/logo.jpg") no-repeat top left;*/
+}
+
+a, h2, h3, .news h4, #sidebar span {
+	color: #0e79d3;
+}
+
+#location a.button {
+	background-color: #0e79d3;
+}

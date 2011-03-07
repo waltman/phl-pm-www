@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta name="author" content="Al Newkirk" />
+
+	<title>Philadelphia Perl Mongers (phl.pm.org)</title>
+	
+	<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="css/prettyPhoto.css" rel="stylesheet" type="text/css" media="screen" />
+	
+	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script><![endif]-->
+	<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+	<script type="text/javascript" src="js/cufon-yui.js"></script>
+	<script type="text/javascript" src="js/Antipasto_400.font.js"></script>
+	<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+	<script type="text/javascript">
+	//<![CDATA[
+		Cufon.replace('h1');
+		Cufon.replace('h2');
+		Cufon.replace('h3');
+		Cufon.replace('h4');
+		Cufon.replace('h5');
+		Cufon.replace('h6');
+	//]]>
+	</script>
+	<script type="text/javascript">
+	//<![CDATA[
+	$(document).ready(function () {
+		
+		// main tabs animation
+		var tabContainers = $('ul#featured > li');   
+		$('#featuredNav a').click(function () {
+			tabContainers.hide().filter(this.hash).fadeIn();  
+			$('#featuredNav a').children('img').removeClass('selected');
+			$(this).children('img').addClass('selected');
+			return false;
+		}).filter(':first').click();
+		
+		// force external links to open in new window
+		$("a[href^='http:']").each(function(){
+			if($(this).attr("href").search(window.location.host.toLowerCase()) == -1){
+				$(this)
+				.not("[href^=#]")
+				.not("[href^=javascript]")
+				.not("[href^=mailto]")
+				.attr("target", "_blank");
+			}
+		});
+		
+		// prettyPhoto modal popup
+		$("a[rel^='prettyPhoto']").prettyPhoto();
+	});
+	//]]>
+	</script>
+</head>
+
+<body id="full_width">
+	<div id="topBar"></div>
+	<div id="wrapper">
+		<div id="header">
+			<h1><a href="index.html" title="Philadelphia Perl Mongers">Philadelphia Perl Mongers</a></h1>
+			<ul id="mainNav">
+				<li><a href="irc://perl.org:9996/phl.pm" title="Join us on IRC">IRC</a></li>
+				<li><a href="http://philadelphia.pm.org/techtalks.html" title="Archive of past Tech Talks">Archive</a></li>
+				<li class="active"><a href="index.html" title="Home">Home</a></li>
+			</ul>
+		</div>
+		<ul id="featured">
+			<li id="panel_1">
+				<div class="imageContainer"><img src="images/phl.pm.org-monk.png" alt="Image" /></div>
+				<div class="contentContainer">
+					<h2>Upcoming Events</h2>
+					<p>Lightning talks at Levine Hall, 3330 Walnut St., Philadelphia, PA, 7-9 PM in room 307 of Levine Hall at the University of Pennsylvania. <a href="http://www.facilities.upenn.edu/map.php?id=169&t=1">See here for a map and directions</a>.</p>
+					<div class="extra">
+						<p><strong>Lightning Talks, Topic (to be determined)</strong></p><!--<a href="https://www.google.com/calendar/embed?src=eh3h2aa01rk8s4rlqvrrdus8kg@group.calendar.google.com&ctz=America/New_York&gsessionid=t7dd2Mivtq_ddp6EY2507w&iframe=true&width=75%&height=75&" rel="prettyPhoto[iframes]" title="Show Philadelphia Perl Mongers Calendar">Show Calendar</a>-->
+					</div>
+				</div>
+			</li>
+			<li id="panel_2">
+				<div class="imageContainer"><img src="images/phl.pm.org-camel.png" alt="Image" /></div>
+				<div class="contentContainer">
+					<h2>Our Meetings</h2>
+					<p><strong>We meet</strong> on the <strong>1</strong><sup>st</sup> <strong>Monday</strong> of every month from <strong>7-9 PM</strong> in room 307 of Levine Hall at the University of Pennsylvania. <a href="http://www.facilities.upenn.edu/map.php?id=169&t=1">See here for a map and directions</a>.</p>
+					<div class="extra">
+						<p><strong>View our Google Calendar</strong></p><a href="https://www.google.com/calendar/embed?src=eh3h2aa01rk8s4rlqvrrdus8kg@group.calendar.google.com&ctz=America/New_York&gsessionid=t7dd2Mivtq_ddp6EY2507w&iframe=true&width=75%&height=75&" rel="prettyPhoto[iframes]" title="Show Philadelphia Perl Mongers Calendar">Show Calendar</a>
+					</div>
+				</div>
+			</li>
+		</ul>
+		<ul id="featuredNav">
+			<li><a href="#panel_1" title="Content"><img src="images/phl.pm.org-monk-thumb.png" alt="Image" /></a></li>
+			<li><a href="#panel_2" title="Content"><img src="images/phl.pm.org-camel-thumb.png" alt="Image" /></a></li>
+		</ul>
+		<div id="twitterContent">
+			<script type="text/javascript">
+				//<![CDATA[
+				new TWTR.Widget({
+					version: 2,
+					type: 'search',
+					search: 'philapm',
+					interval: 6000,
+					title: 'Brought to you by Chuck Norris himself...',
+					subject: 'Philadelphia Perl Mongers',
+					width: 940,
+					height: 250,
+					theme: {
+						shell: {
+							background: '#ffa632',
+							color: '#ffffff'
+						},
+						tweets: {
+							background: '#ffffff',
+							color: '#444444',
+							links: '#707070'
+						}
+					},
+					features: {
+						scrollbar: false,
+						loop: true,
+						live: true,
+						hashtags: true,
+						timestamp: true,
+						avatars: true,
+						toptweets: true,
+						behavior: 'default'
+					}
+				}).render().start();
+				//]]>
+			</script>
+		</div>
+		<div id="mainContent">
+			<div class="box">
+				<h3>Technical Talks</h3>
+				<p>Once a month, we meet and someone gives a presentation about technical issues about Perl, or the world surrounding Perl. Past talks include XML, Perl/Tk, Perl in the real world, Regular Expressions, and more. Generally our speakers come from within phl.pm, but from time to time we bring in a guru from elsewhere in the Perl community. <!--</p><img src="images/boxImage_1.jpg" alt="Image" />--></div>
+			<div class="box">
+				<h3>Mailing List</h3>
+				<p>We have a rather low-volume mailing list, used mostly for negotiation of meeting locations and occasional technical chatter. To subscribe, send email to <a href="mailto:majordomo@lists.pm.org">majordomo@lists.pm.org</a> with a message body of 'subscribe phl'. <br/><br/>`echo 'subscribe phl' | mail majordomo@lists.pm.org`</p></div>
+			<div class="box last">
+				<h3>Upcoming Events</h3>
+				<ul>
+					<li>Mon 7 Feb 2011 - Lightning talks at Levine Hall, 3330 Walnut St., Room 307, 7-9 PM.</li>
+					<li>Mon 7 Mar 2011 - Tech talk (topic TBA) at Levine Hall, 3330 Walnut St., Room 307, 7-9 PM.</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<ul id="secNav">
+				<li><a href="http://jobs.perl.org/" title="Need a job?">Perl Jobs</a></li>
+				<li><a href="mailto:waltman@pobox.com?subject=Hey Walt" title="Contact Walt Mankowski">Contact Walt Mankowski</a></li>
+			</ul>
+				<p>&copy; 2011 Perl Mongers (Philadelphia Chapter). Designed by <a href="http://ana.im" title="Al Newkirk and Associates">Al Newkirk and Associates</a>.</p>
+		</div>
+	</div>
+</body>
+</html>
