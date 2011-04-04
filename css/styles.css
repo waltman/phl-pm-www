@@ -465,7 +465,7 @@ width:300px;
 }
 
 .box h3 {
-border-bottom:1px solid #EEE;
+border-bottom:10px solid #EEE;
 padding-bottom:10px;
 }
 
@@ -739,4 +739,10 @@ margin-bottom:0;
 
 .news li,.newsHeading {
 margin-bottom:15px;
+}
+
+.tweets {
+float:left;
+overflow:hidden;
+width:300px;
 }
